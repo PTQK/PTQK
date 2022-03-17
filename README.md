@@ -5,4 +5,4 @@
 
 ### :zap: GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PTQK&theme=radical)
-![HIGH DREAM](img src = "https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-anh-dong-anime-bau-troi-dem.gif" width = "500px")
+![HIGH DREAM]("https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-anh-dong-anime-bau-troi-dem.gif" width = "500px")
